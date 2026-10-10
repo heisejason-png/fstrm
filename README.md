@@ -59,5 +59,5 @@ See the [online Doxygen documentation here](http://farsightsec.github.io/fstrm/)
 ## Versioning
 
 `fstrm` follows the [Semantic Versioning Specification](http://semver.org/).
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
